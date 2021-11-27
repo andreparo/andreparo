@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreparo
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python basics
+- 🌱 I’m currently learning python and java
 - 📫 How to reach me andrea.parodi.mi@gmail.com
 
 <!---
